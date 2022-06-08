@@ -1,0 +1,104 @@
+body{
+    background-color: #b7cadb;
+
+    font-family: 'Cairo', sans-serif;
+   
+   margin: 0px;
+    display: flex;
+    flex-direction: column; 
+height: auto;}
+.logo{
+    text-align: center;
+    background-color: rgb(34 34 34 / 85%);
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    align-items: center;
+}
+a:link{
+    color: cadetblue;
+}
+a:active{color: darkblue;}
+a:hover{color: darkcyan;}
+#bod{
+    border: solid 5px #DAB88B;
+    background-color: #f3e9dd;
+    width: 90%  ;
+    padding: 3px;
+    padding-top: 1vw;
+    border: solid 3px;
+    border-radius: 0;
+    text-align: right;
+    font-size: 30px;
+    align-items: center;
+    /* margin-left: 150px;*/
+    margin-left: 5%;
+    margin-top: 20px;
+  
+}
+button{
+    font-size: 30px;
+    
+
+}
+.search{
+    float: right;
+    margin-right: 5%;
+    position: relative;
+    margin-top: 10px;
+    min-width: 60px;
+    height: 40px;
+    overflow: hidden;
+    -webkit-backface-visibility: hidden;
+    top: -50px;
+}
+.searc{
+    display: block;
+float: right;
+position: relative;
+left: 121px;
+top: 7px;
+height: 30px;
+width: 75px;
+font-size: 20px;
+}
+.one{
+    float: left;
+    width: 40%;
+}
+.foo{
+    text-align: left;
+
+}
+.icon{
+    text-align: left;
+}
+.foo1{
+    position: relative;
+    top: 25px;
+    left: 25%;
+}
+.foo2{
+    position: relative;
+    top: 25px;
+    left: 30%;
+}
+.foo3{
+    position: relative;
+    top: 50px;
+    left: 25%;
+}
+.foo4{
+    position: relative;
+    top: 50px;
+    left: 30%;
+}
+.foo5{
+    position: relative;
+    left: 56%;
+}
+span{
+    font-weight: bold;
+    
+}
